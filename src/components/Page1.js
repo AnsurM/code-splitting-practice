@@ -1,6 +1,6 @@
 import logo from "../logo.svg";
 
-export function Page1({ onRouteChange }) {
+export default function Page1({ onRouteChange }) {
   return (
     <div className="app">
       <header className="App-header">
