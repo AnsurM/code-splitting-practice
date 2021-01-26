@@ -1,3 +1,7 @@
+# Simple CRA App to learn how code splitting works
+
+Demo is accessible at [Code Splitting Demo](http://ansurm.github.io/code-splitting-practice)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
